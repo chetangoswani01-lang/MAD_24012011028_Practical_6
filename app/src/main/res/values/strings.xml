@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MAD_24012011028_Practical_6</string>
+    <string name="mad_animation_practical1">MAD Animation Practical 1</string>
+    <string name="create_alarm_time">Create Alarm Time</string>
+    <string name="by_pressing_buttons_alarm_can_be_created_and_cancelled">By pressing buttons, alarm can be created and cancelled.</string>
+    <string name="check_current_time_by_looking_below_real_digital_clock">Check current time by looking below real digital clock.</string>
+    <string name="create_alarm">Create Alarm</string>
+    <string name="cancel_alarm">Cancel Alarm</string>
+    <string name="todo">TODO</string>
+</resources>
