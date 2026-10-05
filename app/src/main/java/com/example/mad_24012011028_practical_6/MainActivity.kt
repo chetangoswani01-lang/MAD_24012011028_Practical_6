@@ -2,6 +2,8 @@ package com.example.mad_24012011028_practical_6
 
 import android.graphics.drawable.AnimationDrawable
 import android.os.Bundle
+import android.view.animation.Animation
+import android.view.animation.AnimationUtils
 import android.widget.ImageView
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
