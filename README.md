@@ -40,13 +40,11 @@ The application consists of two screens:
 
 ### 🎬 Demo Video
 
-Screen recording demonstrating the Splash Screen animation and the main screen animation.
-
----
+https://github.com/YOUR-USERNAME/YOUR-REPOSITORY/raw/refs/heads/main/demo%20video.webm
 
 ### 🖼️ Screenshots
 
-#### Splash Screen (Twin Animation + Frame by Frame Animation)
+#### Splash Screen (Twin Animation + Frame by Frame)
 
 | **Animation Start** | **Rotate + Scale Up** | **Animation End** |
 |:---:|:---:|:---:|
@@ -58,10 +56,8 @@ Screen recording demonstrating the Splash Screen animation and the main screen a
 |:---:|:---:|
 | ![Alarm Frame 1](main_1.png) | ![Alarm Frame 2](main_2.png) |
 
----
-
 ## 📝 Conclusion
 
 This practical demonstrates the implementation of **Frame by Frame Animation** and **Twin Animation** in an Android application. `AnimationDrawable` is used to display multiple images sequentially, while `AnimationUtils` is used to combine translation, rotation, and scaling effects.
 
-The practical provides a basic understanding of how animations can be implemented to make Android applications more interactive and visually appealing.
+The practical provides an understanding of how animations can be implemented to make Android applications more interactive and visually appealing.
