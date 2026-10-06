@@ -40,8 +40,8 @@ The application consists of two screens:
 
 ### 🎬 Demo Video
 
-"D:\Demo video.mp4"
-
+["D:\Demo video.mp4"
+](https://github.com/user-attachments/assets/4dd9aa47-c65d-4115-a42e-d1c4ba10f70b)
 ### 🖼️ Screenshots
 
 #### Splash Screen (Twin Animation + Frame by Frame)
