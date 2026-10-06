@@ -40,7 +40,7 @@ The application consists of two screens:
 
 ### 🎬 Demo Video
 
-https://github.com/YOUR-USERNAME/YOUR-REPOSITORY/raw/refs/heads/main/demo%20video.webm
+"D:\Demo video.mp4"
 
 ### 🖼️ Screenshots
 
